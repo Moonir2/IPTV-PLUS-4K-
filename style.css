@@ -10,7 +10,7 @@ slider-container {
 
   display: flex;
 
-  animation: slide 45s infinite;
+  animation: slide 0s infinite;
 
 }
 
